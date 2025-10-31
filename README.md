@@ -1,5 +1,8 @@
 Just my sway config.
 
+Default terminal:
+Alacritty
+
 Install config path:
 ~/.config/sway/config
 
