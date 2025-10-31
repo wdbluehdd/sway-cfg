@@ -11,3 +11,6 @@ Default wallpaper path:
 
 Keybinds:
 swaylock - mod+o
+
+Very raw config
+not recommended for use
