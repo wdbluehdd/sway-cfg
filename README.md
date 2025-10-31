@@ -5,3 +5,6 @@ Install config path:
 
 Default wallpaper path:
 /usr/share/backgrounds/wallpaper.jpg
+
+Keybinds:
+swaylock - mod+l
